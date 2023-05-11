@@ -1,0 +1,2 @@
+screen_num,screen_multi,screen_info,screen_size,pth_dir,show_monitor,top_monitor,top_second,pth_size
+0,1.0,"(2160, 1440, -1506, 132, 853)",2160*1440,E:/Python/Apex/my_weights/APEX无敌我/300-128-total.pt,开启,开启,关闭,640
